@@ -1,0 +1,24 @@
+Package: lvsem
+Type: Package
+Title: Lightweight Structural Equation Modeling with Latent Variable
+        Scores
+Version: 0.1.0
+Authors@R: 
+    person("lvsem", "Authors", role = c("aut", "cre"), email = "example@example.com")
+Description: Lightweight helpers for estimating structural equation models
+    from latent variable scores. The package includes utilities for creating
+    multi-block latent variable scores, estimating path coefficients, computing
+    effects, bootstrapping structural paths, and summarizing reflective
+    measurement blocks.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: loadings, stats
+Suggests:
+    plspm,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
+NeedsCompilation: no
+Packaged: 2026-05-10 10:38:18 UTC; hyama
+Author: lvsem Authors [aut, cre]
+Maintainer: lvsem Authors <example@example.com>
