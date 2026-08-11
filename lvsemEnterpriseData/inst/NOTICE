@@ -1,0 +1,15 @@
+lvsemEnterpriseData includes converted copies of public datasets distributed
+under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+For each dataset, attribution metadata is stored in `enterprise_metadata`.
+Original source URLs, repository identifiers, and DOI values are preserved
+where available.
+
+Changes made by this package:
+- Downloaded source files from the public repository pages.
+- Converted tabular CSV/XLS/XLSX files into R data frame objects.
+- Preserved original variable names and values where possible.
+- Stored source files under `inst/extdata/raw/`.
+
+Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/

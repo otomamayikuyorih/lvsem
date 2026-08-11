@@ -1,0 +1,9 @@
+item,value
+n_orders,450
+random_seed,20260424
+pca_components,1
+kmeans_k,4
+kmeans_seed,20260424
+shock_event_rate,0.071111111111111111
+n_suppliers,24
+notes,"Datos sintéticos plausibles con heterogeneidad, estacionalidad y colas pesadas (shock_event). No corresponden a una empresa real."

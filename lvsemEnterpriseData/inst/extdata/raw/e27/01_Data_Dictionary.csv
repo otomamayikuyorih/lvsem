@@ -1,0 +1,42 @@
+variable,descripcion,tipo,unidad,rol_en_modelo,origen_dato,transformacion,notas
+RiskIndex,Índice compuesto de exposición general a riesgos en la cadena de suministro (PC1 de 6 indicadores),Numérico continuo,0–1,Predictor (SCR_Risk),ACP sobre indicadores A,PC1 estandarizado + min-max,Mayor = mayor exposición
+SCRM_Practices,Índice compuesto de prácticas SCRM (PC1 de 4 indicadores),Numérico continuo,0–1,Predictor (SCRM_Practices),ACP sobre indicadores B,PC1 estandarizado + min-max,Mayor = mejores prácticas
+TraceIndex,Índice de trazabilidad/calidad de información (PC1 de 3 indicadores),Numérico continuo,0–1,Mediador (Trace_Info),ACP sobre indicadores C,PC1 estandarizado + min-max,Mayor = mayor trazabilidad
+cost_var_metric,Variabilidad relativa del costo unitario (unit_cost_sd_cop/unit_cost_cop),Numérico continuo,ratio,Resultado (Cost_Var),Costeo por orden,Cálculo directo,Incluye colas pesadas en shock_event
+noq_metric,Proporción de costos de no-calidad (no_quality_cost_cop/unit_cost_cop),Numérico continuo,ratio,Resultado (NoQ_Cost),Calidad + costeo,Cálculo directo,Incluye efecto shock_event
+margin_pct,Margen de contribución por orden,Numérico continuo,%,Performance económico,Contabilidad,,Afectado por cost_var_metric y noq_metric
+breakeven_units,Unidades estimadas al punto de equilibrio,Numérico discreto,unidades,Performance económico,Finanzas,,Depende de unit_cost_cop y margin_pct
+on_time_delivery,Entrega puntual (cumplimiento),Numérico continuo,0–1,Performance operativo,Logística,,Reducido por riesgo y shocks; mejorado por trazabilidad
+cycle_time_hours_inv,Eficiencia de ciclo (inverso normalizado),Numérico continuo,0–1,Performance operativo,Producción,1/cycle_time_hours (min-max),Mayor = ciclo más rápido
+nonconformity_rate,Tasa de no conformidad post-entrega,Numérico continuo,%,Performance conformidad,Calidad,,Mayor = peor
+regulatory_intensity,Intensidad regulatoria de la orden,Numérico continuo,0–1,Moderador (H5) / control,Clasificación interna,,Mayor = más regulación
+crit_dep_index,Índice criticidad+dependencia de proveedor,Numérico continuo,0–1,Moderador (H6) / control,Cálculo interno,,Mayor = mayor dependencia/criticidad
+product_complexity,Complejidad del producto,Ordinal,1–3,Control,Ingeniería,,3 = alta complejidad
+supplier_type,Tipo de proveedor,Categórica,"{nacional, internacional}",Control,Compras,,Sensibilidad
+transport_mode,Modo de transporte,Categórica,"{terrestre, aereo, maritimo}",Control,Logística,,Sensibilidad
+order_qty_units,Tamaño del pedido,Numérico discreto,unidades,Control,Producción/ventas,,Afecta economías de escala
+shock_event,"Evento disruptivo raro (p. ej., disrupción logística)",Binaria,0/1,Control/robustez,Construido,,Introduce colas pesadas y heterocedasticidad
+cluster,"Perfil de orden (k-means) en espacio (RiskIndex, cost_var_metric, TraceIndex)",Categórica,1–4,Segmentación / MGA,Clustering,"k-means (k=4, seed=20260424)",Para análisis por heterogeneidad
+unit_cost_cop,Costo unitario medio por orden,Numérico continuo,COP,Cost outcomes,Costeo por orden,,"COP simulados, rango realista"
+unit_cost_sd_cop,Desviación estándar del costo unitario por orden,Numérico continuo,COP,Cost outcomes,Costeo por orden,,Proxy de variabilidad
+no_quality_cost_cop,Costo total de no-calidad por orden,Numérico continuo,COP,NoQ_Cost,Calidad/Costeo,,Reproceso + scrap (simulado)
+scrap_rate,Tasa de desperdicio,Numérico continuo,0–1,Indicador de no-calidad,Calidad,,Mayor = más scrap
+rework_rate,Tasa de reproceso,Numérico continuo,0–1,Indicador de no-calidad,Producción/Calidad,,Mayor = más reproceso
+order_id,Identificador de orden,Texto,,ID,Sistema,,Único por fila
+supplier_id,Identificador de proveedor,Numérico discreto,1–24,ID/Control,Compras,,Para efectos aleatorios
+year,Año,Numérico discreto,YYYY,Control,Calendario,,2024 o 2025
+month,Mes,Numérico discreto,1–12,Control,Calendario,,Estacionalidad
+quarter,Trimestre,Numérico discreto,1–4,Control,Calendario,Derivado de month,
+supplier_delay_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+inbound_damage_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+storage_loss_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+process_rework_trigger_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+distribution_delay_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+stockout_rate,Indicador observado de riesgo (A),Numérico continuo,0–1,Indicador (SCR_Risk),Operación/Logística/Calidad,,Incluido en ACP RiskIndex
+supplier_audit_score,Indicador observado de prácticas SCRM (B),Numérico continuo,mixto,Indicador (SCRM_Practices),Gestión/Compras,,Incluido en ACP SCRM_Practices
+monitoring_frequency_per_month,Indicador observado de prácticas SCRM (B),Numérico continuo,mixto,Indicador (SCRM_Practices),Gestión/Compras,,Incluido en ACP SCRM_Practices
+contingency_maturity_likert,Indicador observado de prácticas SCRM (B),Numérico continuo,mixto,Indicador (SCRM_Practices),Gestión/Compras,,Incluido en ACP SCRM_Practices
+collaboration_index,Indicador observado de prácticas SCRM (B),Numérico continuo,mixto,Indicador (SCRM_Practices),Gestión/Compras,,Incluido en ACP SCRM_Practices
+traceability_completeness,Indicador observado de trazabilidad/calidad de información (C),Numérico continuo,0–1,Indicador (Trace_Info),Calidad/Sistemas,,Incluido en ACP TraceIndex
+data_accuracy,Indicador observado de trazabilidad/calidad de información (C),Numérico continuo,0–1,Indicador (Trace_Info),Calidad/Sistemas,,Incluido en ACP TraceIndex
+inspection_coverage,Indicador observado de trazabilidad/calidad de información (C),Numérico continuo,0–1,Indicador (Trace_Info),Calidad/Sistemas,,Incluido en ACP TraceIndex

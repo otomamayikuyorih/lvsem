@@ -1,0 +1,19 @@
+Package: lvsemEnterpriseData
+Title: Enterprise and Organizational Datasets for Latent Variable SEM
+Version: 0.1.0
+Authors@R: person(given = "lvsem contributors", role = c("aut", "cre"), email = "noreply@example.com")
+Author: lvsem contributors
+Maintainer: lvsem contributors <noreply@example.com>
+Description: Curated enterprise and organizational datasets for latent
+    variable structural equation modeling examples. The package includes
+    Creative Commons Attribution 4.0 datasets from public repositories,
+    with source metadata and attribution records.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.1)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests:
+    readxl,
+    jsonlite

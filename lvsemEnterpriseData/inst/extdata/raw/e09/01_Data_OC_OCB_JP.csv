@@ -1,0 +1,337 @@
+No,Gender,Marital status,Age,Education,Position,AC1,AC2,AC3,AC4,AC5,AC6,CC1,CC2,CC3,CC4,CC5,CC6,NC1,NC2,NC3,NC4,NC5,NC6,OCB1,OCB2,OCB3,OCB4,OCB5,OCB6,OCB7,OCB8,JP1,JP2,JP3,JP4
+1,Male,Married,36-45,University,Manager/Leader,5,5,5,4,5,4,5,5,6,6,6,7,5,5,4,5,6,5,5,6,5,5,5,5,5,5,6,5,5,4
+2,Male,Married,36-45,University,Manager/Leader,4,4,4,3,4,4,4,5,6,6,6,6,6,6,4,6,6,6,6,6,5,6,6,6,5,6,5,5,6,6
+3,Male,Married,36-45,University,Employee,3,3,3,3,2,2,6,6,6,6,6,6,7,6,5,3,6,6,6,6,6,6,1,1,6,2,7,6,6,4
+4,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,5,6,6,6,6,6,6,6,6,6,6,7,7,6,6,6,6,6,6,6,6,6,6,6,6,6
+5,Female,Married,25-35,High School,Manager/Leader,3,3,3,3,3,3,3,4,3,4,4,4,3,4,4,4,3,3,4,4,4,4,4,4,4,4,5,5,4,4
+6,Male,Married,>55,Master,Worker,3,5,5,5,3,7,3,3,3,3,5,3,5,5,5,3,5,6,4,5,5,5,3,5,6,5,5,4,3,6
+7,Male,Married,36-45,College,Manager/Leader,5,5,5,4,4,4,4,4,5,5,5,5,3,3,4,5,4,5,6,6,6,6,6,6,6,6,5,5,4,5
+8,Male,Married,46-55,University,Worker,5,4,5,5,5,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,4,4,5,5,5,5,5,4,4,5
+9,Male,Married,36-45,University,Employee,5,5,6,5,5,4,6,6,6,6,6,6,5,5,5,5,5,5,6,6,5,5,5,5,6,4,5,6,6,5
+10,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,5,5,4,6,5,5,4,5,5,4,4,6,6,4,6,5,5,5,5,5,5,5,5,6,5,5,5
+11,Male,Married,46-55,University,Worker,4,4,4,3,4,4,4,4,4,4,4,5,5,5,5,6,6,6,5,6,6,6,4,4,5,5,6,6,5,3
+12,Male,Married,46-55,University,Worker,4,4,4,4,3,3,3,2,1,4,4,4,4,3,2,2,3,2,4,5,4,4,4,4,3,5,3,4,2,3
+13,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,5,6,6,5,7,7,7,7,6,6,6,6,6,6,5,7,4,6,6,6,6,5,6,6,7,6
+14,Male,Married,36-45,College,Manager/Leader,4,5,5,4,3,4,5,5,5,5,5,5,5,6,5,5,5,6,6,6,6,6,6,6,6,6,3,5,4,3
+15,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,7,6,6,6,5,6,6,6,6,6,6,6,6,6,6,5,5,5,6,6,6,5
+16,Male,Married,36-45,College,Manager/Leader,3,3,3,3,2,4,3,4,3,3,3,4,3,3,3,3,3,3,3,3,3,3,3,5,3,4,1,3,3,2
+17,Male,Married,>55,Master,Worker,6,6,5,5,6,5,5,4,5,5,4,4,5,5,6,5,4,4,5,5,5,6,5,5,6,5,6,6,5,5
+18,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,6,6,6,6,6,6
+19,Male,Married,46-55,University,Worker,6,6,5,5,5,5,7,7,6,6,6,6,5,5,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7
+20,Male,Married,36-45,College,Manager/Leader,5,5,5,5,5,5,5,6,6,6,6,6,5,4,3,3,2,4,4,6,4,4,4,2,2,2,4,4,4,6
+21,Male,Married,25-35,College,Manager/Leader,5,6,5,5,6,6,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+22,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,6,6,4,4,4,5,5,5,4,3,7,7,7,2,6,6,6,6,6,6,6,6,6,6,6,6
+23,Male,Married,36-45,University,Manager/Leader,3,4,4,4,3,4,6,6,6,6,6,6,5,5,5,3,4,5,4,5,4,4,5,5,4,5,4,4,4,4
+24,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,5,6,6,6,6,7,7,7,7,5,6,5,5
+25,Female,Married,25-35,High School,Manager/Leader,6,6,5,6,4,4,3,3,5,2,3,5,7,5,7,6,5,6,4,5,2,5,3,6,3,5,7,3,5,5
+26,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,7,5,4,6,5,4,5,6,4,6,5,6,7,7,6,7,7,7,7,6,7,6,6,6,5,4,5,7
+27,Male,Married,46-55,University,Worker,7,7,7,7,7,7,5,6,6,6,4,5,7,5,7,7,7,7,7,7,7,7,4,5,6,6,7,7,7,7
+28,Male,Married,36-45,University,Manager/Leader,6,6,6,7,6,6,6,6,6,6,6,6,6,6,6,6,5,6,7,7,6,7,5,1,6,5,7,6,6,6
+29,Male,Married,36-45,University,Employee,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1,7,7,1,1,1,1,7,7,7,7,7
+30,Male,Married,36-45,University,Manager/Leader,6,6,5,5,6,6,5,6,5,6,6,6,5,5,5,6,6,6,6,6,5,6,5,5,5,5,6,5,5,5
+31,Male,Married,46-55,University,Worker,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,5,4,4,5,5,5,5,2,2,3,3,5,5,6,4
+32,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,4,4,5,5,4,4,5,5,6,5,5,4,4,5,4,4,5,5,6,6,6,3,6,5,6,5,5,5,5
+33,Male,Married,25-35,College,Manager/Leader,5,6,5,6,5,5,5,6,4,5,6,6,5,5,5,4,4,5,5,6,5,5,6,5,5,4,6,5,4,4
+34,Female,Married,25-35,High School,Manager/Leader,3,4,4,4,3,3,2,4,2,3,1,3,5,5,4,2,3,4,5,4,5,6,5,4,4,2,5,7,2,1
+35,Male,Married,36-45,College,Manager/Leader,4,4,6,7,7,7,6,6,6,6,6,7,7,7,7,7,7,7,4,7,4,6,4,4,4,4,4,6,6,5
+36,Male,Married,36-45,University,Manager/Leader,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,4,4,5,4,4,5,5,5
+37,Male,Married,46-55,University,Worker,5,5,5,5,5,4,3,5,5,6,5,4,5,4,5,5,5,6,4,4,4,4,4,2,5,4,5,3,6,5
+38,Male,Married,>55,Master,Worker,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,6,5,6,6,6,6,7,7,7,7,5,6,5,5
+39,Male,Married,>55,Master,Worker,4,4,4,4,3,3,3,3,3,4,3,3,3,3,4,2,3,3,4,4,4,4,3,3,4,3,4,5,3,3
+40,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,3,7,7,7,7,4,4,4,4,5,3,5,5
+41,Male,Married,36-45,University,Employee,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,6,7,7,7,7,6,6,6,6,7,7,7,7
+42,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,6,6,6,6,6,6,6,6,6,6
+43,Male,Married,46-55,University,Worker,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+44,Male,Married,36-45,University,Employee,5,5,5,5,6,6,7,7,7,7,7,7,7,7,6,6,6,7,7,7,7,7,7,6,7,7,7,6,6,5
+45,Male,Married,46-55,University,Worker,5,5,5,3,4,3,5,5,5,5,5,5,6,4,4,4,4,4,6,6,4,4,4,4,4,4,5,5,5,5
+46,Male,Married,>55,University,Worker,6,6,6,6,6,5,6,6,6,6,5,5,6,6,6,6,6,6,6,6,5,5,5,5,5,5,6,5,5,6
+47,Male,Married,25-35,College,Manager/Leader,6,5,5,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,5,6,5,6,5,6,6,6
+48,Male,Married,46-55,University,Employee,4,3,4,4,5,4,7,7,6,6,6,7,5,5,5,5,6,5,4,6,6,6,5,5,5,5,5,4,5,2
+49,Male,Married,>55,Master,Worker,6,6,6,5,5,4,6,5,5,4,5,5,4,4,6,6,4,6,5,5,5,5,5,5,5,5,6,5,5,5
+50,Male,Married,36-45,University,Manager/Leader,6,6,6,5,5,6,6,6,6,6,6,6,7,7,6,6,6,6,7,7,7,7,7,6,7,7,6,6,6,6
+51,Male,Married,36-45,University,Employee,5,5,5,3,4,4,6,6,6,6,6,6,3,3,5,5,3,3,5,6,6,6,5,3,4,3,5,5,4,4
+52,Male,Married,>55,University,Worker,5,5,5,7,6,6,6,5,6,5,6,5,5,5,5,6,6,6,5,5,5,4,3,3,3,3,6,5,6,6
+53,Male,Married,>55,University,Worker,5,4,4,4,5,4,4,4,4,4,4,5,4,4,5,4,4,5,5,4,4,5,4,4,4,5,5,5,5,5
+54,Male,Married,36-45,University,Manager/Leader,4,5,4,4,4,4,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,6,4,4,5,4,5,5,5,5
+55,Male,Married,>55,Master,Worker,3,3,3,4,5,5,5,4,5,5,5,5,6,6,6,4,6,5,4,6,4,4,2,5,5,4,6,3,3,2
+56,Female,Married,25-35,College,Manager/Leader,5,5,5,5,6,6,7,7,7,6,7,7,5,5,6,5,6,6,5,7,5,5,7,6,6,7,7,2,5,6
+57,Male,Married,36-45,University,Employee,5,6,6,6,5,5,7,7,7,7,7,6,7,6,7,7,6,6,5,5,5,5,5,6,5,4,5,6,6,4
+58,Male,Married,>55,University,Worker,5,4,4,4,5,4,4,4,4,4,4,5,4,4,5,4,4,5,5,4,4,5,4,4,4,5,5,5,5,5
+59,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,4,3,3,4,5,5,3,3,2,3,2,5,3,5,4,4,5,5,5,7,3,5,4,5,5,5,7,2,1
+60,Male,Married,46-55,University,Worker,6,7,6,6,2,2,5,5,5,5,6,6,5,5,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6
+61,Female,Married,25-35,High School,Manager/Leader,7,7,7,7,6,6,6,6,6,6,6,7,6,5,5,2,6,2,6,6,6,6,6,6,6,6,7,5,7,7
+62,Male,Married,>55,University,Worker,4,5,5,3,4,5,4,5,4,4,4,5,6,6,4,4,5,5,5,6,6,4,4,5,5,6,5,6,6,4
+63,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,3,4,3,3,3,4,4,4,5,4,5,5,3,4,3,4,3,6,5,5,5,5,5,5,5,5,6,6,4
+64,Male,Married,36-45,University,Manager/Leader,5,5,5,3,3,7,3,5,5,5,5,5,5,5,4,4,6,6,5,5,5,5,5,6,6,5,5,6,3,5
+65,Male,Married,46-55,University,Worker,5,4,4,4,4,3,4,4,3,3,3,4,4,4,2,1,2,2,3,3,3,3,3,3,2,3,3,3,3,3
+66,Male,Married,36-45,College,Manager/Leader,5,5,5,5,5,5,7,7,6,6,6,6,5,5,5,5,5,5,5,6,4,6,5,5,5,5,5,5,6,4
+67,Male,Married,46-55,University,Worker,5,5,4,4,6,6,4,6,5,5,5,6,5,4,5,4,5,5,5,5,5,4,5,5,4,5,5,4,5,5
+68,Male,Married,25-35,College,Manager/Leader,5,5,5,5,5,5,5,6,6,6,6,6,5,5,6,5,6,5,5,5,5,6,4,4,4,4,6,5,5,5
+69,Male,Married,36-45,College,Manager/Leader,6,6,6,6,4,6,6,6,6,6,7,7,5,5,7,7,6,6,6,6,5,5,5,6,5,2,5,5,4,6
+70,Male,Married,36-45,University,Manager/Leader,2,4,4,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,4,3,4,4,5,4,4
+71,Male,Married,>55,Doctorate,Worker,5,5,5,5,6,6,5,5,5,5,5,5,5,4,5,5,5,5,5,6,6,5,6,4,5,5,6,6,6,6
+72,Female,Single,25-35,High School,Board of Directors,6,6,6,6,6,6,5,6,5,6,5,6,6,4,6,6,6,5,7,7,7,6,6,5,6,6,6,6,6,6
+73,Female,Married,25-35,High School,Manager/Leader,3,3,3,3,3,3,4,4,4,5,5,5,5,4,3,3,4,3,4,5,5,5,4,5,4,4,5,5,3,3
+74,Female,Single,18-24,High School,Board of Directors,6,6,6,7,6,6,5,6,5,5,5,5,5,5,6,3,4,5,3,5,4,5,5,6,4,5,5,5,5,5
+75,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,3,4,3,3,4,4,4,4,5,5,5,3,3,4,3,3,3,4,4,3,4,4,4,4,4,4,4,4,4
+76,Male,Married,36-45,College,Manager/Leader,4,4,4,3,3,4,3,5,5,5,5,5,4,4,5,5,5,5,4,4,4,4,4,4,4,4,5,4,4,4
+77,Female,Single,25-35,High School,Board of Directors,3,5,5,5,3,7,3,3,3,3,5,3,5,5,5,3,5,6,4,5,5,5,3,5,6,5,5,4,3,6
+78,Male,Married,36-45,University,Manager/Leader,7,7,7,6,7,6,6,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5
+79,Male,Married,36-45,University,Employee,6,6,6,6,4,6,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,6,6
+80,Male,Married,46-55,University,Worker,4,4,5,4,6,6,5,6,6,6,6,6,3,2,3,2,2,3,5,5,5,4,3,3,5,3,5,4,6,5
+81,Male,Married,>55,Master,Worker,6,6,6,6,6,6,5,5,5,4,5,5,6,6,5,3,4,6,4,7,6,5,1,1,1,1,5,4,5,5
+82,Male,Married,36-45,University,Manager/Leader,6,6,5,6,5,6,6,5,6,5,6,4,5,6,4,6,5,6,6,7,3,6,6,6,5,6,5,6,6,6
+83,Male,Married,46-55,University,Worker,2,2,2,2,2,6,7,7,6,7,7,7,2,2,3,2,2,2,3,7,6,7,6,2,6,4,3,3,4,1
+84,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,4,4,4,4,4,5,4,4,4,5,4,5,5,5,4,5,6,4,5,4,4,4,4,4,4,4,4,4,4
+85,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,7,7,7,7,6,7,5,6,6,6,6,6,6,6,6,7,6,5,6,6,6,5,5,5
+86,Female,Married,25-35,High School,Manager/Leader,4,5,4,4,3,3,3,5,4,5,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5
+87,Male,Married,>55,University,Worker,3,2,4,2,2,3,3,2,2,4,4,2,3,1,4,4,3,2,3,4,3,3,4,2,3,3,3,3,2,3
+88,Male,Married,36-45,College,Manager/Leader,6,6,6,6,7,6,6,7,7,7,6,7,6,7,5,7,6,6,6,6,6,6,6,5,5,6,6,6,6,6
+89,Male,Married,36-45,University,Manager/Leader,6,6,6,6,6,7,6,6,5,5,6,6,7,6,6,6,6,5,6,6,6,6,6,4,5,6,6,6,6,6
+90,Female,Single,18-24,High School,Board of Directors,6,6,6,6,5,5,6,6,6,6,6,6,4,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+91,Female,Married,25-35,College,Manager/Leader,5,6,6,5,3,5,6,6,5,5,7,5,3,5,2,1,2,5,2,7,3,6,6,7,6,7,6,1,2,6
+92,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,7,7,7,7,7,7,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,1,4,1
+93,Female,Married,25-35,High School,Manager/Leader,5,5,5,5,5,7,5,4,5,5,4,4,5,5,4,4,4,5,4,4,4,3,2,2,4,6,6,6,5,5
+94,Male,Married,36-45,University,Employee,3,3,3,3,3,6,5,5,4,5,5,5,5,5,6,6,6,5,5,6,5,4,2,2,6,6,6,5,6,3
+95,Male,Married,>55,Doctorate,Worker,6,5,4,5,4,5,5,5,5,6,6,6,5,5,5,5,5,5,5,6,5,5,4,5,5,6,5,5,6,6
+96,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,5,5,4,4,4,4,4,4,5,5,4,4,3,4,4,4,4,4,4,4,4,4,5,5,4,5,4,4,4
+97,Male,Married,36-45,University,Employee,5,5,5,6,5,3,4,6,3,4,3,5,5,5,5,5,5,5,4,6,6,6,4,1,4,3,6,6,4,2
+98,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,4,4,6,4,5,4,5,5,5,5,5,5,5,6,5,6,6,5,6,5,5,6,6,5,4,5,5,5,5
+99,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6
+100,Male,Married,46-55,University,Worker,5,5,5,5,4,4,5,5,5,5,4,4,6,5,5,6,6,6,6,6,7,7,6,5,6,6,4,6,6,5
+101,Female,Married,25-35,High School,Manager/Leader,6,6,5,5,5,5,6,7,6,6,6,7,6,6,7,5,5,6,6,7,6,6,6,6,6,6,7,7,5,6
+102,Male,Married,36-45,College,Manager/Leader,6,6,7,6,5,5,6,7,6,7,7,7,7,5,5,5,6,6,5,7,5,5,6,2,5,5,5,5,6,6
+103,Male,Married,36-45,University,Manager/Leader,5,6,6,6,6,6,5,5,5,5,5,5,7,7,7,7,7,7,7,7,7,7,6,5,6,7,7,7,7,7
+104,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,5,6,6,2,5,4,5,5,3,5,5,4,4,5,5,5,5,4,5,4,7,3,3,4,3,5,6
+105,Female,Single,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,6,6,5,5,5,4,5,5,6,6,5,3,4,6,4,7,6,5,1,1,1,1,5,4,5,5
+106,Male,Married,25-35,College,Manager/Leader,4,3,3,2,4,5,2,4,5,6,4,5,3,4,4,4,5,4,4,5,6,6,5,3,4,6,4,5,4,4
+107,Female,Single,25-35,High School,Board of Directors,4,4,4,3,3,4,4,4,4,4,4,4,2,3,4,4,4,4,5,5,5,5,5,5,5,5,4,4,4,4
+108,Female,Married,25-35,High School,Manager/Leader,5,5,6,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,5,6,6,5,6,5,6,6,5
+109,Male,Married,36-45,University,Employee,5,5,6,6,6,6,6,6,6,6,6,6,5,5,5,5,5,6,6,6,5,7,6,5,6,7,5,5,6,5
+110,Male,Married,36-45,University,Employee,5,5,5,6,5,5,4,5,5,5,5,5,6,5,5,4,5,4,5,6,5,6,6,6,6,6,5,4,5,4
+111,Male,Married,46-55,University,Worker,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,3,3,3,3,4,4,4,4
+112,Male,Married,36-45,College,Manager/Leader,6,6,6,6,3,3,6,6,6,6,6,6,6,6,6,4,5,4,6,6,4,5,5,5,5,6,3,3,4,6
+113,Male,Married,36-45,College,Manager/Leader,5,5,6,6,5,6,6,5,6,6,6,6,5,4,5,3,3,3,5,5,5,5,5,5,5,5,6,6,6,6
+114,Male,Married,36-45,University,Manager/Leader,7,7,7,6,5,5,7,7,7,7,7,7,5,6,6,5,6,7,5,7,5,6,5,5,7,7,6,5,7,6
+115,Male,Married,36-45,University,Manager/Leader,5,5,5,4,6,5,5,5,6,5,5,6,6,6,5,5,4,6,6,6,6,5,4,4,5,5,6,6,5,5
+116,Male,Married,36-45,College,Manager/Leader,6,5,5,4,5,5,3,6,5,6,4,4,4,5,5,4,5,5,5,6,6,4,3,5,5,5,3,5,5,5
+117,Male,Married,46-55,University,Worker,5,5,4,5,5,5,6,6,6,6,6,6,5,5,6,6,5,6,6,6,6,5,4,4,6,5,5,5,5,6
+118,Male,Married,46-55,University,Worker,6,6,6,6,6,6,3,3,2,2,3,3,6,5,5,3,3,3,7,6,6,6,5,6,5,5,6,6,6,6
+119,Male,Married,36-45,University,Employee,1,1,1,1,1,1,2,2,1,1,1,2,2,2,2,2,2,1,1,1,1,2,1,1,1,1,1,1,2,2
+120,Male,Married,36-45,University,Employee,4,5,5,6,6,6,3,4,4,3,4,3,3,3,5,5,4,3,5,4,5,6,5,5,6,5,6,5,3,4
+121,Male,Married,36-45,University,Manager/Leader,7,6,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,6,7,7,6,7,7,7,7,7,7,7,7,7
+122,Male,Married,>55,Master,Worker,4,3,2,2,5,7,6,6,5,6,7,6,1,4,4,3,5,4,6,6,5,6,6,6,6,5,4,4,4,3
+123,Male,Married,36-45,University,Manager/Leader,7,6,6,4,7,6,6,6,6,6,6,6,7,7,6,6,6,6,7,7,7,7,7,6,7,7,6,6,6,6
+124,Male,Married,>55,Master,Worker,3,3,4,3,3,4,4,4,4,5,5,5,3,3,4,3,3,3,4,4,3,4,4,4,4,4,4,4,4,4
+125,Male,Married,36-45,University,Manager/Leader,6,6,6,7,7,6,5,5,5,6,6,6,5,4,5,5,4,4,6,6,6,6,6,6,6,6,5,6,5,7
+126,Male,Married,>55,Master,Worker,6,6,6,6,5,6,6,5,7,7,7,7,6,6,6,6,6,6,5,7,4,6,6,6,6,5,6,6,7,6
+127,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,5,5,5,5,7,4,4,6,6,4,4,5,3,4,4,5,4,4,4,5,6,4,4,4,4,4,4,4,5
+128,Female,Married,25-35,High School,Manager/Leader,4,5,4,3,4,5,5,5,5,4,5,6,5,4,5,3,5,5,6,7,6,6,6,6,6,6,5,5,4,5
+129,Male,Married,36-45,University,Employee,6,6,6,6,5,6,6,6,6,6,5,5,5,5,5,5,5,5,5,6,5,5,4,2,3,4,6,5,6,6
+130,Male,Married,>55,University,Worker,5,5,6,5,6,5,4,3,4,4,4,4,6,6,4,3,4,5,6,6,6,5,3,5,3,5,6,6,6,6
+131,Female,Single,25-35,High School,Board of Directors,6,6,6,5,6,6,6,5,6,6,5,5,5,5,6,6,6,6,4,5,3,4,5,5,4,5,6,3,4,5
+132,Female,Married,25-35,High School,Manager/Leader,3,2,2,3,4,3,2,4,3,2,3,4,3,2,4,4,4,2,5,4,4,3,6,6,5,6,4,6,3,2
+133,Male,Married,36-45,University,Employee,3,3,3,3,3,6,5,5,4,5,5,5,5,5,6,6,6,5,5,6,5,4,2,2,6,6,6,5,6,3
+134,Female,Single,25-35,High School,Chief/Deputy Chief of Staff,3,5,5,5,3,7,3,3,3,3,5,3,5,5,5,3,5,6,4,5,5,5,3,5,6,5,5,4,3,6
+135,Male,Married,46-55,University,Worker,7,7,7,7,6,4,7,7,7,6,6,6,7,7,7,7,7,7,6,6,6,6,5,5,6,6,5,7,6,6
+136,Male,Married,46-55,University,Worker,5,5,5,5,5,5,6,6,6,6,6,6,4,4,4,5,5,5,5,6,5,5,2,4,5,6,5,4,4,4
+137,Female,Single,25-35,High School,Chief/Deputy Chief of Staff,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,4,6,6,7,6,5,6
+138,Female,Married,25-35,College,Manager/Leader,3,3,3,3,1,4,4,6,6,5,5,6,5,4,1,1,3,6,3,3,1,3,5,6,6,7,7,2,2,3
+139,Male,Married,46-55,University,Employee,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
+140,Male,Married,36-45,University,Employee,7,7,7,6,6,6,6,5,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,5,6,6,6,6,6
+141,Male,Married,>55,University,Worker,1,1,1,1,1,1,2,4,2,7,7,7,2,1,2,1,2,2,3,4,4,5,5,5,3,7,2,2,3,2
+142,Female,Married,25-35,High School,Manager/Leader,2,2,2,1,2,1,2,2,1,3,1,2,5,4,6,2,6,3,5,4,5,6,4,5,4,5,5,5,2,1
+143,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,3,4,2,3,2,3,3,3,3,3,3,4,4,5,1,3,3,2,1,3,4,4,4,2,2,5,2,2,2
+144,Male,Married,>55,Master,Worker,6,6,6,5,5,4,6,5,5,4,5,5,4,4,6,6,4,6,5,5,5,5,5,5,5,5,6,5,5,5
+145,Female,Married,25-35,High School,Manager/Leader,6,6,7,7,6,6,6,6,6,7,6,6,7,7,7,7,6,7,5,6,5,3,5,5,5,6,6,2,6,5
+146,Female,Married,25-35,High School,Manager/Leader,5,5,5,5,4,4,5,6,5,5,5,6,6,6,5,4,5,5,6,6,6,6,6,6,6,7,6,6,6,5
+147,Male,Married,>55,University,Worker,5,5,5,6,6,5,5,5,5,5,5,6,5,4,7,6,7,7,6,7,5,7,6,6,6,7,7,5,5,4
+148,Female,Married,25-35,High School,Manager/Leader,5,4,4,3,4,5,2,4,5,5,6,4,4,5,5,5,5,4,5,6,6,4,6,4,5,4,6,5,3,3
+149,Male,Married,46-55,University,Employee,4,4,4,4,4,4,4,5,5,5,4,4,5,4,4,3,4,5,4,4,3,4,5,5,4,5,4,4,4,3
+150,Male,Married,>55,University,Worker,5,4,6,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,5,5,6,5,5,4,4,6,4,4,3,3
+151,Female,Single,25-35,High School,Chief/Deputy Chief of Staff,4,3,2,2,5,7,6,6,5,6,7,6,1,4,4,3,5,4,6,6,5,6,6,6,6,5,4,4,4,3
+152,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,7,6,7,7,7,7,7,6,6,6,6,7,7,6,6,6,6,6,6,6,6,6,6,6,6
+153,Male,Married,36-45,University,Manager/Leader,5,5,5,6,5,5,6,6,6,5,5,6,6,5,5,5,5,5,6,6,5,5,6,6,6,6,5,5,5,5
+154,Male,Married,>55,Master,Worker,6,6,6,5,6,6,2,5,4,5,5,3,5,5,4,4,5,5,5,5,4,5,4,7,3,3,4,3,5,6
+155,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+156,Male,Married,>55,University,Worker,5,5,4,4,5,4,3,4,5,5,4,5,5,5,5,4,5,4,7,6,6,6,6,6,6,6,5,5,5,5
+157,Male,Married,>55,Master,Worker,5,5,5,5,5,7,4,4,6,6,4,4,5,3,4,4,5,4,4,4,5,6,4,4,4,4,4,4,4,5
+158,Male,Married,46-55,University,Worker,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,6,7,4,5,6,6,6,6,7,7
+159,Male,Married,>55,University,Worker,4,4,3,3,5,5,2,3,4,4,3,5,3,4,4,5,3,4,3,4,5,5,2,4,2,3,4,4,3,4
+160,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,5,5,6,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,4,5,5,5,6,5,5,5
+161,Male,Married,46-55,University,Worker,7,7,7,7,6,7,5,6,6,6,6,6,6,6,4,4,5,5,6,7,5,5,4,7,6,6,6,6,6,6
+162,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,6,5,6,6,6,7,7,7,7,5,6,6,6,7,7,7,7,6,6,6,7,7,7,6,6,6,6,6,6
+163,Male,Married,46-55,University,Worker,6,6,6,5,5,5,6,6,5,6,6,6,6,6,6,5,5,3,5,5,5,5,3,4,5,5,6,6,5,5
+164,Female,Married,25-35,High School,Manager/Leader,4,3,4,3,6,4,4,3,5,4,4,5,3,4,4,3,4,4,4,4,4,4,3,2,3,4,5,5,4,3
+165,Male,Married,36-45,College,Manager/Leader,5,6,4,4,4,5,6,7,7,6,6,6,5,3,5,6,6,6,6,6,5,5,5,5,5,4,5,5,5,4
+166,Male,Married,36-45,University,Employee,7,7,7,7,7,7,7,7,7,7,7,7,7,6,7,6,7,7,7,7,7,6,1,1,7,7,7,6,7,7
+167,Female,Married,25-35,High School,Manager/Leader,7,6,7,7,7,7,7,7,7,7,7,7,7,6,7,6,7,7,7,6,7,7,7,7,7,7,7,7,6,7
+168,Female,Married,25-35,College,Manager/Leader,2,1,2,2,2,2,3,2,2,2,2,3,2,2,3,4,3,2,6,6,5,6,5,5,5,5,4,5,4,2
+169,Male,Married,46-55,University,Employee,6,6,6,6,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,7,6,6,6,5,5,5,7,4,6,6
+170,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,5,5,4,6,5,5,4,5,5,4,4,6,6,4,6,5,5,5,5,5,5,5,5,6,5,5,5
+171,Male,Married,46-55,University,Worker,6,5,4,4,6,7,7,7,7,6,7,7,4,4,5,4,4,5,4,5,4,5,4,2,3,2,4,7,4,4
+172,Male,Married,>55,University,Worker,3,4,3,3,2,4,6,6,6,6,6,7,4,4,6,6,6,6,6,6,6,7,7,6,7,6,6,6,6,4
+173,Male,Married,36-45,University,Employee,4,4,5,4,5,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+174,Male,Married,46-55,University,Worker,4,3,5,3,5,5,5,6,6,7,6,6,5,5,5,5,5,5,5,5,5,6,6,6,4,4,5,3,4,4
+175,Male,Married,36-45,University,Manager/Leader,5,5,6,3,4,3,6,6,5,5,6,5,5,5,6,5,7,5,5,6,5,5,3,4,5,5,5,3,3,5
+176,Male,Married,46-55,University,Employee,6,7,6,7,7,7,7,7,7,7,7,7,7,6,6,7,7,6,6,7,6,6,6,7,6,6,7,6,6,6
+177,Male,Married,36-45,College,Manager/Leader,6,6,7,7,6,6,7,7,7,7,7,7,6,7,7,7,7,7,6,7,7,6,6,6,7,5,7,7,7,7
+178,Male,Married,36-45,University,Manager/Leader,5,5,5,4,4,4,4,4,5,5,5,5,5,5,6,6,5,5,4,5,5,5,3,6,4,3,3,3,4,4
+179,Female,Married,25-35,High School,Manager/Leader,5,5,6,5,6,6,5,5,5,5,5,6,5,5,7,6,6,6,6,6,6,6,6,6,6,6,6,6,5,5
+180,Male,Married,>55,University,Worker,3,3,4,3,4,4,2,2,3,3,4,4,4,4,4,5,4,3,4,4,4,4,3,4,4,4,5,5,4,3
+181,Female,Married,25-35,High School,Manager/Leader,5,6,5,5,5,7,5,5,5,4,5,5,5,5,4,4,5,5,5,6,6,5,2,2,2,2,5,6,4,5
+182,Male,Married,36-45,University,Manager/Leader,6,6,6,6,6,6,6,4,5,3,3,3,3,3,5,5,5,5,6,5,6,4,4,4,4,4,5,5,5,6
+183,Male,Married,46-55,University,Worker,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,6,6,6,6,6,5,5,5,4,4,4,4
+184,Female,Married,25-35,High School,Manager/Leader,5,5,5,5,5,5,5,5,5,5,5,5,7,7,7,6,7,7,6,6,7,7,5,4,6,5,6,6,5,5
+185,Male,Married,>55,University,Worker,6,6,6,5,6,6,6,6,6,5,6,7,6,6,6,6,5,6,5,6,6,6,6,4,5,4,6,5,6,5
+186,Female,Married,25-35,College,Manager/Leader,3,4,3,3,2,3,1,1,1,1,1,1,2,2,5,2,3,1,7,5,1,1,1,7,1,5,5,2,1,3
+187,Male,Married,36-45,University,Employee,4,5,4,3,4,4,4,6,5,6,6,6,3,3,5,4,4,3,4,5,4,3,5,5,4,5,5,3,4,5
+188,Male,Married,46-55,University,Worker,7,7,7,6,7,7,6,7,7,7,7,7,7,7,7,7,7,7,6,7,7,6,4,2,6,4,7,7,7,6
+189,Male,Married,46-55,University,Worker,5,5,5,4,4,4,6,5,6,6,5,6,6,5,6,6,6,6,5,6,6,6,6,6,6,6,6,5,4,4
+190,Male,Married,36-45,University,Manager/Leader,5,5,5,5,7,7,6,6,6,6,6,6,6,5,6,6,6,6,6,6,5,5,5,4,5,5,6,5,3,3
+191,Male,Married,46-55,University,Worker,5,6,6,5,4,5,5,5,5,5,5,5,5,4,6,5,4,5,5,5,5,6,4,4,4,4,6,5,6,6
+192,Female,Single,18-24,High School,Board of Directors,7,7,5,7,6,7,6,7,6,6,6,6,5,5,5,5,5,5,7,7,5,7,7,4,3,4,7,1,7,7
+193,Male,Married,46-55,University,Worker,4,3,4,3,4,4,3,3,4,4,3,4,3,4,4,4,3,4,3,4,4,3,4,3,3,2,4,3,3,3
+194,Female,Married,25-35,High School,Manager/Leader,4,4,5,7,5,7,5,6,5,6,5,5,6,6,6,6,5,6,6,6,5,6,6,6,6,5,5,6,5,6
+195,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+196,Male,Married,36-45,College,Manager/Leader,4,4,4,3,3,4,5,7,5,5,5,6,5,3,5,4,5,5,5,6,6,5,2,4,4,3,5,6,4,4
+197,Male,Married,36-45,College,Manager/Leader,4,4,4,3,5,4,4,4,4,4,4,5,4,4,3,3,3,3,6,6,3,5,6,6,6,6,3,4,4,6
+198,Male,Married,46-55,University,Worker,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+199,Male,Married,46-55,University,Worker,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+200,Female,Married,25-35,College,Manager/Leader,4,4,4,4,5,6,5,6,6,5,5,5,5,5,6,7,6,6,7,6,6,6,6,6,6,6,5,6,6,5
+201,Male,Married,36-45,University,Manager/Leader,7,6,6,7,7,7,5,7,6,7,7,6,6,6,7,5,6,6,6,6,6,6,6,7,5,6,6,6,7,6
+202,Male,Married,46-55,University,Worker,4,4,4,4,4,5,5,4,5,5,5,5,5,5,5,5,5,5,4,4,5,5,4,4,4,4,5,4,4,4
+203,Male,Married,>55,University,Worker,5,5,5,7,6,6,6,5,6,5,6,5,5,5,5,6,6,6,5,5,5,4,3,3,3,3,6,5,6,6
+204,Male,Married,36-45,University,Manager/Leader,4,3,2,2,2,2,7,7,7,7,7,7,5,4,3,3,4,5,3,4,6,5,3,2,1,4,5,4,1,5
+205,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,4,5,4,5,5,6,5,6,6,6,6,4,6,6,4,5,5,6
+206,Female,Married,25-35,High School,Manager/Leader,5,5,5,5,5,5,7,7,7,7,7,7,5,5,6,6,6,6,5,5,5,5,5,5,5,5,5,4,5,4
+207,Male,Married,>55,Master,Worker,4,4,5,4,5,4,5,5,5,6,5,5,4,4,5,5,5,4,4,6,4,4,4,2,3,4,5,7,4,4
+208,Female,Single,25-35,High School,Chief/Deputy Chief of Staff,4,4,5,4,5,4,5,5,5,6,5,5,4,4,5,5,5,4,4,6,4,4,4,2,3,4,5,7,4,4
+209,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,3,3,4,5,5,5,4,5,5,5,5,6,6,6,4,6,5,4,6,4,4,2,5,5,4,6,3,3,2
+210,Male,Married,36-45,University,Employee,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+211,Male,Married,46-55,University,Worker,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,7,7,7,7,5,3,6,4,7,3,3,4
+212,Male,Married,36-45,University,Manager/Leader,4,4,4,5,4,4,5,5,5,5,5,5,4,5,5,5,5,5,6,6,5,6,6,6,6,6,6,6,5,5
+213,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,7,7,7,7,7,7,7,7,7,7,7,7,5,5,5,7,7,5,7,7,7,7,7,7,7,7,7,7,7,7
+214,Female,Married,25-35,College,Manager/Leader,5,5,5,5,6,6,6,6,6,6,6,6,5,5,6,6,6,6,6,6,6,5,6,6,6,6,6,6,5,5
+215,Male,Married,46-55,University,Worker,7,7,7,7,7,7,6,6,6,6,6,6,6,6,7,7,6,5,7,7,7,7,7,7,7,7,7,7,7,7
+216,Male,Married,46-55,University,Worker,4,5,5,4,4,6,4,5,5,5,5,5,7,6,7,7,6,6,6,6,7,6,5,5,6,6,6,6,6,6
+217,Male,Married,>55,Doctorate,Worker,5,5,5,4,4,4,4,4,4,5,5,4,4,3,4,4,4,4,4,4,4,4,4,5,5,4,5,4,4,4
+218,Female,Married,25-35,High School,Manager/Leader,5,5,5,5,6,6,7,7,7,6,7,7,5,5,6,5,6,6,5,7,5,5,7,6,6,7,7,2,5,6
+219,Male,Married,36-45,University,Employee,6,6,5,5,5,5,7,5,6,6,5,6,5,5,4,4,5,4,6,6,5,5,4,5,6,6,5,6,5,5
+220,Male,Married,36-45,University,Employee,7,7,7,6,7,7,7,6,7,5,6,7,7,7,7,7,7,7,4,7,6,6,3,5,6,6,6,5,6,5
+221,Male,Married,>55,University,Worker,6,6,5,6,5,5,7,7,7,7,7,7,5,5,4,2,2,2,4,5,2,2,2,2,2,2,6,5,4,5
+222,Male,Married,46-55,University,Worker,5,5,6,5,6,6,4,6,6,6,6,6,5,5,5,5,5,5,4,6,5,3,3,3,4,3,6,4,6,5
+223,Male,Married,46-55,University,Employee,3,3,1,2,1,1,3,3,2,2,1,2,1,2,3,4,3,1,4,2,4,4,4,1,3,3,1,4,1,1
+224,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,3,2,2,4,4,4,3,3,3,2,2,2,4,3,3,3,4,2,2,2,4,2,2,2,3,3,2,4,2
+225,Male,Married,36-45,University,Manager/Leader,4,4,4,4,4,4,7,7,7,2,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,7,7,7,7,4
+226,Male,Married,36-45,University,Employee,4,4,3,4,6,3,5,6,6,6,6,6,4,4,5,6,6,6,7,7,7,6,7,7,7,7,7,7,5,4
+227,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,6,6,6,6,6,6,6,6,6,6,5,5,5,5,5,5,6,6,6,6,6,4,4,4,6,6,6,6
+228,Male,Married,36-45,University,Manager/Leader,3,4,4,4,4,4,7,7,7,7,7,7,6,6,6,6,5,6,6,5,6,6,5,5,5,5,7,7,7,4
+229,Male,Married,36-45,University,Manager/Leader,3,3,3,3,3,3,2,2,2,4,2,4,2,2,5,2,3,3,6,6,6,6,6,6,6,6,3,6,2,2
+230,Female,Single,25-35,High School,Board of Directors,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,3,5,6,6,5,5,5,5
+231,Male,Married,36-45,University,Employee,5,5,5,4,5,5,5,6,4,6,5,6,6,5,4,5,6,6,5,5,6,5,5,5,5,5,5,5,5,5
+232,Male,Married,25-35,College,Manager/Leader,5,5,4,4,5,5,5,3,4,6,6,5,3,3,4,4,6,4,6,6,6,6,6,6,6,6,6,6,6,4
+233,Male,Married,36-45,University,Employee,4,4,5,4,4,3,5,5,5,5,5,5,4,4,6,2,3,4,4,4,4,4,4,4,4,4,4,4,4,4
+234,Female,Married,25-35,High School,Manager/Leader,5,6,6,5,4,4,4,6,6,6,6,6,5,5,5,4,4,5,5,5,6,7,6,7,5,5,5,5,5,5
+235,Male,Married,36-45,College,Manager/Leader,4,4,4,4,5,5,5,5,4,5,5,5,6,5,6,5,5,5,5,5,5,5,4,4,5,4,5,4,5,4
+236,Male,Married,46-55,University,Worker,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+237,Male,Married,46-55,University,Worker,6,5,4,4,6,7,7,7,7,6,7,7,4,4,5,4,4,5,4,5,4,5,4,2,3,2,4,7,4,4
+238,Male,Married,46-55,University,Worker,5,5,5,5,5,7,4,4,4,4,4,7,5,5,7,6,6,7,4,7,7,6,6,4,4,6,4,4,2,2
+239,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+240,Male,Married,36-45,University,Employee,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5
+241,Male,Married,36-45,College,Manager/Leader,7,7,7,7,7,7,5,3,4,5,4,4,6,5,6,4,4,4,5,5,5,5,2,4,3,4,5,4,5,5
+242,Male,Married,36-45,University,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,6,7,5,7,6,6,7,6,6,6
+243,Male,Married,36-45,University,Manager/Leader,5,5,5,5,5,5,6,6,6,6,6,6,6,5,6,6,6,5,5,5,5,5,5,5,4,5,5,5,5,5
+244,Female,Single,25-35,High School,Board of Directors,5,5,5,4,6,7,6,6,5,4,5,7,4,2,4,4,4,4,6,5,5,5,5,6,5,5,5,6,5,5
+245,Female,Married,25-35,College,Manager/Leader,2,7,2,1,7,2,2,4,4,4,4,4,6,6,6,5,6,6,6,6,6,3,3,4,4,5,5,4,4,4
+246,Male,Married,36-45,University,Employee,6,5,5,6,6,5,6,6,6,7,7,6,6,6,7,7,7,6,6,7,5,5,4,4,4,4,6,6,6,6
+247,Female,Single,25-35,High School,Board of Directors,5,5,5,4,6,7,6,4,6,5,6,7,6,4,7,7,5,6,6,6,6,6,5,6,6,6,6,6,5,4
+248,Female,Married,25-35,High School,Manager/Leader,2,2,2,2,3,3,4,5,5,6,4,5,5,2,6,5,5,5,7,7,7,7,6,6,7,7,3,7,4,2
+249,Male,Married,46-55,University,Worker,7,7,7,7,7,7,4,7,7,6,5,7,7,7,7,5,7,7,7,7,7,7,7,4,7,7,7,7,7,7
+250,Male,Married,46-55,University,Worker,3,3,3,3,2,2,2,2,1,2,2,2,2,2,2,3,3,3,2,2,3,2,3,3,3,3,1,2,2,1
+251,Male,Married,36-45,University,Employee,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,7,6,6,6,6,6,5
+252,Male,Married,36-45,University,Employee,5,5,5,5,4,4,3,4,4,5,5,5,4,4,4,5,4,5,6,6,6,6,4,2,2,5,6,6,6,5
+253,Male,Married,46-55,University,Worker,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+254,Male,Married,36-45,University,Employee,5,2,2,3,3,1,1,2,1,1,1,7,4,4,5,5,3,1,1,2,3,2,2,6,3,3,5,1,1,1
+255,Male,Married,46-55,University,Worker,4,4,4,3,4,4,5,5,5,5,5,5,3,4,4,4,4,4,4,5,4,5,4,4,4,5,5,4,4,4
+256,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,6,6,5,5,5,6,6,6,6,7,6,4,4,4,2,3,5,6,6,6,5,6,6,6,6,6,6,6,4
+257,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,4,4,4,3,3,3,3,3,4,3,3,3,3,4,2,3,3,4,4,4,4,3,3,4,3,4,5,3,3
+258,Male,Married,36-45,University,Manager/Leader,5,5,5,5,5,5,3,4,3,4,4,4,5,5,4,4,4,5,3,3,5,4,3,5,4,3,3,3,4,4
+259,Male,Married,36-45,University,Manager/Leader,6,6,6,6,5,4,7,7,7,7,7,7,7,7,6,6,6,6,6,7,6,6,7,6,6,6,5,6,7,7
+260,Male,Married,36-45,University,Employee,2,2,2,1,2,1,2,1,1,3,1,1,3,2,3,1,3,2,2,2,4,3,7,1,1,1,2,5,1,1
+261,Female,Married,25-35,High School,Manager/Leader,6,5,6,4,4,4,6,5,4,4,5,4,4,5,6,6,5,5,4,5,4,5,4,4,4,4,5,4,4,4
+262,Female,Married,25-35,College,Manager/Leader,4,6,4,4,5,5,4,4,4,4,4,4,5,5,5,5,4,5,4,5,6,5,5,4,5,5,5,5,5,4
+263,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,7,6,7,6,6,6,6,6,6,6,6,6,7,6,6,6,6,7,6,6
+264,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,5,5,5,5,5,6,5,5,5,5,6,6,5,5,4,5,2,5,6,5,5,6,6,6,6,7,4,5,5
+265,Male,Married,>55,University,Worker,6,6,6,6,6,5,6,6,6,6,5,5,6,6,6,6,6,6,6,6,5,5,5,5,5,5,6,5,5,6
+266,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,6,5,5,6,5,5,4,5,5,4,4,5,5,6,5,4,4,5,5,5,6,5,5,6,5,6,6,5,5
+267,Male,Married,36-45,University,Employee,2,2,2,2,2,2,5,5,5,6,5,6,3,4,2,3,4,4,6,7,6,5,5,3,4,4,6,7,6,3
+268,Female,Single,18-24,High School,Board of Directors,7,7,6,6,7,7,6,6,6,6,6,7,6,6,6,4,6,6,7,7,6,6,7,7,7,7,7,7,7,7
+269,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,5,5,5,5,6,4,3,4,3,4,4,6,5,6,4,4,5,1,1,2,2,2,4,3,2,4,1,3,4
+270,Female,Married,25-35,College,Manager/Leader,7,7,7,7,6,6,6,5,5,5,6,5,5,6,6,5,5,5,6,6,6,5,5,5,5,5,6,6,6,6
+271,Male,Married,>55,Master,Worker,6,6,6,6,6,6,4,4,4,5,5,5,4,3,7,7,7,2,6,6,6,6,6,6,6,6,6,6,6,6
+272,Male,Married,>55,Master,Worker,4,5,5,5,5,5,6,5,5,5,5,6,6,5,5,4,5,2,5,6,5,5,6,6,6,6,7,4,5,5
+273,Female,Married,25-35,High School,Manager/Leader,4,6,5,6,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+274,Male,Married,36-45,University,Employee,7,6,6,6,6,6,6,7,6,6,6,6,5,4,6,6,6,4,5,6,5,5,5,5,5,6,6,5,5,5
+275,Female,Married,25-35,College,Manager/Leader,5,5,5,4,4,4,6,6,6,6,6,6,4,6,6,6,6,5,7,6,6,6,6,4,5,4,6,5,5,5
+276,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,4,6,5,6,6,6,5,4,4,4,5,4,4,6,5,4,4,4,4,6,4,5,5,5
+277,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+278,Male,Married,36-45,University,Employee,4,4,4,4,3,3,4,3,4,4,4,5,3,3,3,3,3,3,4,4,4,4,5,4,4,4,3,4,3,4
+279,Male,Married,46-55,University,Worker,6,6,6,6,6,4,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6
+280,Male,Married,36-45,College,Manager/Leader,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5
+281,Female,Single,18-24,High School,Board of Directors,6,6,6,6,6,7,7,7,7,7,7,7,5,5,6,5,5,5,5,6,5,5,5,4,6,5,6,5,5,6
+282,Male,Married,36-45,College,Manager/Leader,5,5,5,5,3,5,5,5,7,5,7,6,4,5,4,6,4,6,4,5,5,1,5,7,7,7,5,6,5,7
+283,Male,Married,36-45,University,Employee,6,6,6,6,6,6,6,6,6,5,5,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6
+284,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,3,2,3,2,3,3,4,3,3,4,2,4,3,3,4,3,4,3,4,5,5,4,4,4,5,5,1,4,1,2
+285,Male,Married,>55,University,Worker,3,3,3,3,3,3,2,3,3,4,3,3,3,3,3,3,3,3,3,3,6,3,7,6,6,5,4,5,3,2
+286,Male,Married,36-45,College,Manager/Leader,5,5,5,4,5,5,4,4,4,4,4,4,5,5,4,4,5,4,5,5,5,5,5,5,5,5,5,5,5,5
+287,Female,Married,25-35,High School,Manager/Leader,5,6,5,5,5,7,5,5,5,4,5,5,5,5,4,4,5,5,5,6,6,5,2,2,2,2,5,6,4,5
+288,Male,Married,36-45,University,Manager/Leader,3,3,3,3,3,3,1,1,1,2,2,1,5,5,4,4,4,4,7,7,6,5,6,6,6,6,4,4,5,4
+289,Male,Married,36-45,University,Manager/Leader,6,6,5,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,5,6,6,5,6,6,5,6,5,5,5,6
+290,Male,Married,>55,University,Worker,5,5,5,5,7,4,5,5,4,4,3,4,7,6,1,3,3,5,5,5,7,6,6,1,4,4,7,4,1,5
+291,Female,Married,25-35,High School,Manager/Leader,5,5,5,4,6,6,5,3,2,4,3,4,6,6,6,6,5,5,6,6,5,5,5,7,6,7,4,5,2,3
+292,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,3,4,3,4,4,4,4,4,4,3,4,4,3,5,4,4,3,3,3,3,3,1,2,2,2,3,3,3,2
+293,Female,Single,18-24,High School,Board of Directors,6,5,6,5,6,5,5,6,7,5,5,7,6,5,6,5,6,6,5,7,5,5,3,5,6,6,6,3,4,6
+294,Male,Married,46-55,University,Worker,5,5,5,5,5,5,5,5,5,5,5,5,5,6,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5
+295,Male,Married,46-55,University,Worker,3,3,3,2,3,2,3,3,3,4,4,4,3,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,2
+296,Male,Married,46-55,University,Worker,4,4,3,4,3,3,1,5,2,5,2,2,4,2,5,2,2,3,2,3,3,4,2,2,3,2,2,4,3,2
+297,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,4,4,4,4,7,4,5,6,6,4,6,6,5,4,4,5,5,4,6,6,6,6,6,6,6,6,6,6,6,4
+298,Female,Married,25-35,High School,Manager/Leader,5,5,6,5,5,6,6,6,6,6,6,6,6,5,6,6,5,3,7,7,7,7,7,7,6,7,6,7,7,7
+299,Male,Married,36-45,College,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,5,5,6,6,5,6,6,6,5,6,5,6,5,6,6,6,6,6
+300,Male,Married,36-45,University,Employee,6,6,6,5,6,6,6,5,5,6,6,6,6,6,6,6,7,7,6,6,6,6,6,5,6,6,6,5,6,5
+301,Male,Married,36-45,College,Manager/Leader,6,6,6,6,7,7,6,7,7,6,6,6,7,7,7,6,6,4,3,7,2,4,4,5,6,7,2,4,6,6
+302,Male,Married,36-45,University,Manager/Leader,5,5,5,5,5,4,5,4,4,6,5,5,5,5,5,5,5,5,6,6,5,5,4,4,5,4,6,6,5,5
+303,Male,Married,46-55,University,Employee,5,5,5,5,5,5,5,6,6,6,6,6,5,5,5,5,5,5,6,6,5,6,4,4,5,4,6,6,5,5
+304,Male,Married,36-45,University,Manager/Leader,4,4,4,5,4,6,4,4,4,4,4,4,4,5,6,6,6,5,4,4,4,4,4,5,4,3,3,3,4,4
+305,Female,Married,25-35,High School,Manager/Leader,6,6,6,6,5,5,4,6,6,6,5,5,5,6,5,6,4,5,6,6,5,6,5,6,6,6,6,6,6,6
+306,Male,Married,36-45,College,Manager/Leader,5,5,4,5,6,6,6,6,7,6,6,7,5,5,6,5,4,5,6,7,7,5,6,6,7,6,6,5,5,4
+307,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,6,6,6,6,5,6,6,7,5,6,7,7,6,4,5,4,5,5,6,1,1,7,7,7,4,6,7,6,5
+308,Male,Married,36-45,College,Manager/Leader,5,5,5,5,6,5,6,6,6,6,6,6,4,5,6,5,4,5,7,7,6,7,7,7,7,7,7,6,6,6
+309,Male,Married,>55,University,Worker,5,5,4,5,5,6,5,5,5,5,5,6,6,5,5,4,5,5,5,6,6,5,6,4,5,4,5,5,5,5
+310,Male,Married,46-55,University,Worker,5,5,5,6,6,6,5,5,5,5,5,5,3,4,5,3,3,4,6,6,6,6,4,2,5,5,5,4,6,5
+311,Male,Married,36-45,University,Manager/Leader,5,5,5,5,3,5,6,7,6,6,6,6,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+312,Male,Married,36-45,University,Employee,6,6,5,5,5,5,6,6,5,5,5,5,6,5,6,5,6,6,7,7,6,7,7,6,7,7,5,6,5,5
+313,Male,Married,36-45,University,Manager/Leader,5,5,5,5,5,5,5,5,5,5,6,6,5,5,5,5,5,5,6,6,5,6,5,5,5,5,5,5,6,5
+314,Male,Married,46-55,University,Worker,7,7,7,6,7,7,7,7,7,7,7,7,7,7,6,7,6,7,7,7,7,7,7,7,7,7,7,7,7,7
+315,Male,Married,36-45,College,Manager/Leader,6,6,6,6,5,5,5,5,5,5,5,5,6,6,6,6,6,5,6,6,5,6,5,5,6,4,5,5,4,4
+316,Male,Married,36-45,University,Manager/Leader,6,6,6,6,6,6,7,7,7,7,7,7,7,7,6,6,6,7,6,6,6,6,6,6,6,6,5,5,6,6
+317,Male,Married,36-45,University,Employee,4,5,5,4,3,4,4,3,2,3,3,1,3,4,5,2,2,4,6,3,5,6,1,3,4,4,6,5,3,3
+318,Male,Married,46-55,University,Worker,5,5,5,5,5,5,4,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,5,4,5,4,5,4,4
+319,Male,Married,25-35,College,Manager/Leader,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+320,Male,Married,>55,Master,Worker,4,4,4,4,4,4,5,4,4,4,5,4,5,5,5,4,5,6,4,5,4,4,4,4,4,4,4,4,4,4
+321,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,5,5,5,5,6,6,5,5,5,5,5,5,5,4,5,5,5,5,5,6,6,5,6,4,5,5,6,6,6,6
+322,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,5,4,5,4,5,5,5,5,6,6,6,5,5,5,5,5,5,5,6,5,5,4,5,5,6,5,5,6,6
+323,Male,Married,46-55,University,Worker,6,6,6,5,6,5,7,7,7,7,7,7,6,5,6,6,6,6,7,7,7,6,7,5,6,6,7,6,6,5
+324,Male,Married,36-45,University,Manager/Leader,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,7,7,6,7,5,7,6,6,7,6,6,6
+325,Female,Married,25-35,High School,Chief/Deputy Chief of Staff,6,5,5,6,5,6,3,3,1,2,2,3,3,3,3,3,4,4,2,2,4,2,3,2,2,2,3,5,2,4
+326,Male,Married,36-45,University,Manager/Leader,3,2,2,3,5,5,5,5,5,5,6,5,4,4,5,3,4,5,5,4,3,6,6,4,5,2,5,4,2,3
+327,Male,Married,46-55,University,Worker,5,5,5,4,5,4,1,3,2,1,2,5,5,5,1,1,3,3,2,1,7,2,1,1,1,1,2,5,4,2
+328,Male,Married,36-45,University,Employee,6,6,6,5,5,6,5,5,5,5,6,5,6,5,6,4,5,5,5,6,5,4,4,4,3,3,5,5,4,4
+329,Male,Married,46-55,University,Worker,5,6,5,5,6,6,7,7,7,7,7,7,7,7,7,7,7,7,6,5,6,7,7,4,6,6,6,6,6,5
+330,Male,Married,46-55,University,Worker,5,5,5,5,5,6,6,7,7,6,7,7,4,4,6,6,6,5,5,5,6,5,5,4,6,5,5,6,5,5
+331,Female,Married,25-35,College,Manager/Leader,5,5,5,4,4,5,6,6,6,6,6,6,4,5,5,5,6,4,5,5,5,5,4,4,4,4,5,6,4,5
+332,Male,Married,36-45,University,Employee,5,5,4,5,3,4,5,4,4,4,4,4,5,4,4,4,5,4,6,6,4,4,4,5,5,4,5,6,3,4
+333,Male,Married,46-55,University,Employee,7,7,7,7,7,7,7,6,5,5,5,5,6,6,6,5,6,7,5,5,5,6,5,5,6,6,5,5,6,6
+334,Male,Married,>55,University,Worker,5,5,5,5,5,5,6,5,6,6,5,6,6,5,5,3,3,4,6,6,6,5,4,5,5,5,6,4,3,5
+335,Male,Married,36-45,University,Manager/Leader,5,4,3,4,3,1,4,4,2,2,2,3,4,3,4,4,5,3,7,7,7,4,1,3,3,3,5,5,4,4
+336,Male,Married,46-55,University,Worker,5,6,6,6,6,6,4,4,5,6,4,5,6,3,6,3,4,3,7,7,7,7,1,7,7,7,5,6,5,5
